@@ -64,7 +64,7 @@ python main.py
 Se requiere Google Chrome o Chromium para la lectura dinámica de las páginas estadísticas de FIFA.
 
 
-## Versión 0.7.6-alpha
+## Versión 0.7.6
 
 - Las descargas completas de jugadores y selecciones mantienen la lógica estable de la versión anterior.
 - Los Excel incorporan la hoja `Diccionario_variables`, con nombre, categoría, explicación y tipo/unidad de cada variable.
