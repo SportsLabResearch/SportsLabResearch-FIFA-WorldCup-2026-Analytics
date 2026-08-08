@@ -1,0 +1,62 @@
+﻿site_name: SportsLabResearch FIFA World Cup 2026 Analytics
+site_description: Scientific software for acquisition, organization and analysis of FIFA World Cup 2026 data
+site_author: SportsLabResearch
+site_url: https://sportslabresearch.github.io/SportsLabResearch-FIFA-WorldCup-2026-Analytics/
+
+repo_name: SportsLabResearch-FIFA-WorldCup-2026-Analytics
+repo_url: https://github.com/SportsLabResearch/SportsLabResearch-FIFA-WorldCup-2026-Analytics
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+nav:
+  - Home: index.md
+  - Getting Started:
+      - Installation: installation.md
+      - Quick Start: quick-start.md
+  - User Guide:
+      - Overview: user-guide.md
+      - Player Statistics: player-statistics.md
+      - Team Statistics: team-statistics.md
+      - Players + Teams: players-teams.md
+      - Complementary FIFA Data: complementary-data.md
+      - Outputs: outputs.md
+  - Data:
+      - Data Sources: data-sources.md
+      - Variable Dictionary: variable-dictionary.md
+  - Methodology:
+      - Data Acquisition: data-acquisition.md
+      - Data Processing: data-processing.md
+      - Validation: validation.md
+      - Reproducibility: reproducibility.md
+      - Limitations: limitations.md
+  - Scientific Use:
+      - Research Applications: research-applications.md
+      - Open Science: open-science.md
+  - FAQ: faq.md
+  - Citation: citation.md
+  - Changelog: changelog.md
+  - License: license.md
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
