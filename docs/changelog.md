@@ -1,4 +1,4 @@
-﻿# Changelog
+# Changelog
 
 The complete project changelog is maintained in the GitHub repository.
 
@@ -6,4 +6,4 @@ https://github.com/SportsLabResearch/SportsLabResearch-FIFA-World-Cup-2026-Analy
 
 ## Current stable version
 
-v0.7.6
+v0.7.7

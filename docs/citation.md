@@ -1,10 +1,10 @@
-﻿# Citation
+# Citation
 
 Please cite the exact software version used in your research.
 
 ## Software
 
-SportsLabResearch-FIFA-World-Cup-2026-Analytics. Version 0.7.6. SportsLabResearch.
+SportsLabResearch-FIFA-World-Cup-2026-Analytics. Version 0.7.7. SportsLabResearch.
 
 ## Repository
 

@@ -1,8 +1,8 @@
-﻿# FAQ
+# FAQ
 
 ## Does the software work with other FIFA tournaments?
 
-No. Version 0.7.6 is specifically designed for the FIFA World Cup 2026.
+No. Version 0.7.7 is specifically designed for the FIFA World Cup 2026.
 
 ## Does it include player dates of birth?
 

@@ -1,4 +1,4 @@
-﻿# Validation
+# Validation
 
 The project includes automated tests and internal validation procedures.
 
@@ -12,4 +12,4 @@ The project includes automated tests and internal validation procedures.
 - Variable dictionary generation
 - Reporting modules
 
-Current stable release: v0.7.6
+Current stable release: v0.7.7
