@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it."
+title: "SportsLab-Analytics"
+type: software
+authors:
+  - family-names: "Pino-Ortega"
+    given-names: "José"
+version: "0.7.3-alpha"
+date-released: "2026-07-12"
+license: MIT
+repository-code: "https://github.com/SportsLabResearch/SportsLab-Analytics"
+keywords:
+  - sports analytics
+  - football analytics
+  - data science
+  - FIFA
+  - reproducible research

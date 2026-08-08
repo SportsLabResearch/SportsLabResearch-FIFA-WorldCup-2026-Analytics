@@ -1,0 +1,34 @@
+{
+  "sources": [
+    {
+      "id": "fifa_world_cup_2026",
+      "name": "FIFA World Cup 2026",
+      "type": "fifa_web",
+      "sport": "football",
+      "competition": "FIFA World Cup 2026",
+      "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+      "enabled": true
+    },
+    {
+      "id": "fifa_world_cup_2026_squads_pdf",
+      "name": "FIFA World Cup 2026 · Squad Lists PDF",
+      "type": "pdf_url",
+      "sport": "football",
+      "competition": "FIFA World Cup 2026",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "enabled": false
+    },
+    {
+      "id": "local_csv",
+      "name": "Archivo CSV local",
+      "type": "csv",
+      "enabled": true
+    },
+    {
+      "id": "local_excel",
+      "name": "Archivo Excel local",
+      "type": "excel",
+      "enabled": true
+    }
+  ]
+}
